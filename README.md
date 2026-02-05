@@ -195,7 +195,32 @@ FROM claims;
 ## 📈 Dashboard Pages
 - **Executive Overview:** High-level spend, trends, and efficiency KPIs  
 - **Claim Type Cost Drivers:** Procedure-level and service-level drilldowns  
-- **High-Cost Member Analysis:** Member cost concentration and severity vs frequency analysis  
+- **High-Cost Member Analysis:** Member cost concentration and severity vs frequency analysis
+
+--- 
+## 📊 Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](images/Executive_Overview.png)
+
+This page provides a high-level view of total spend, paid ratios, and time trends to help executives quickly understand overall cost performance.
+
+---
+
+### Claim Type Cost Drivers
+![Claim Type Cost Drivers](images/Claim_Type_Cost_Drivers.png)
+
+This page drills into cost drivers by claim type and procedure, highlighting high-cost CPTs and utilization patterns.
+
+---
+
+### High-Cost Member Analysis
+![High-Cost Member Analysis](images/High_Cost_Member_Analysis.png)
+
+This page identifies cost concentration among members and visualizes inpatient severity versus utilization frequency to support targeted care management decisions.
+
+> Note: Dashboards are interactive in Power BI. Screenshots are provided for reference; slicers allow filtering by year and claim type.
+
 
 ---
 
